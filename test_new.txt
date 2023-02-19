@@ -1,2 +1,2 @@
-This is a new test file that I've added.
+This is a test file that I've added - it's not so new anymore.
 The internet tells me that I need a folder to not be empty for git to track it.
