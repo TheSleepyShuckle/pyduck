@@ -1,0 +1,67 @@
+Hippowdon (F) @ Lum Berry  
+Ability: Sand Stream  
+Level: 50  
+Tera Type: Steel  
+EVs: 148 HP / 108 Atk / 252 SpD  
+Adamant Nature  
+- Protect  
+- Slack Off  
+- Earthquake  
+- Iron Head  
+
+Garganacl (M) @ Leftovers  
+Ability: Purifying Salt  
+Level: 50  
+Tera Type: Fighting  
+EVs: 252 HP / 4 Def / 252 SpD  
+Impish Nature  
+- Recover  
+- Salt Cure  
+- Body Press  
+- Protect  
+
+Iron Jugulis @ Booster Energy  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Flying  
+EVs: 4 HP / 4 Def / 220 SpA / 148 SpD / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Protect  
+- Dark Pulse  
+- Air Slash  
+
+Iron Hands @ Assault Vest  
+Ability: Quark Drive  
+Level: 50  
+Tera Type: Grass  
+EVs: 196 HP / 252 Atk / 60 SpD  
+Adamant Nature  
+- Fake Out  
+- Thunder Punch  
+- Drain Punch  
+- Volt Switch  
+
+Meowscarada (F) @ Focus Sash  
+Ability: Overgrow  
+Level: 50  
+Tera Type: Grass  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Serious Nature  
+- Protect  
+- Flower Trick  
+- Knock Off  
+- Brick Break  
+
+Glimmora (F) @ Life Orb  
+Ability: Toxic Debris  
+Level: 50  
+Tera Type: Flying  
+EVs: 212 SpA / 52 SpD / 244 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Sludge Bomb  
+- Earth Power  
+- Spiky Shield  
