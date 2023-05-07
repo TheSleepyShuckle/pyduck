@@ -1,5 +1,5 @@
 import requests
-from pokeapi_type_pull_functions import pokeapi_species_types
+from pokeapi_type_pull_functions import pokeapi_species_types, pokeapi_move_types
 # Only need to import the function that gets pulled
 
 #Nominal case test
@@ -22,3 +22,13 @@ species3 = "BUTTERFREE"
 print(pokeapi_species_types(species3))
 # print(pokeapi_species_types(species4))
 # print(pokeapi_species_types(species5))
+
+move1 = "ember"
+move2 = "Flying Press"
+move3 = "Will-o-Wisp"
+move4 = "Protect"
+
+print(pokeapi_move_types(move1))
+print(pokeapi_move_types(move2))
+print(pokeapi_move_types(move3))
+print(pokeapi_move_types(move4))
